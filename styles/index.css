@@ -1,0 +1,20 @@
+/* the styles for the index article */
+article h2 {
+	text-align: center;
+	color: darkblue;
+	text-shadow: 2px 2px 2px darkgrey;
+}
+
+/* the styles for the index asideB */
+asideB h3 {
+	padding: 20px 0;
+	color: darkblue;
+	text-shadow: 2px 2px 2px darkgrey;
+}
+asideB ol {
+	padding-left: 30px;
+	margin-bottom: 20px;
+}
+asideB li {
+	text-shadow: 1px 1px 1px darkgrey;
+}
